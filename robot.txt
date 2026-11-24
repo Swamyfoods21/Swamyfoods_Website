@@ -1,0 +1,11 @@
+# Swamy Foods: instructions for search engines.
+#
+# Every public page may be visited. The cart, checkout, review, account, tracking, thank-you and admin pages
+# each carry their own "noindex" tag, so Google will not list them. They are deliberately NOT blocked here:
+# blocking a page in this file stops search engines from ever reading that tag, and would also publish
+# the page's address to anyone who opens this file.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://swamyfoods.com.au/sitemap.xml
