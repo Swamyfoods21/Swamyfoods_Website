@@ -3,7 +3,7 @@ window.SWAMY_CONFIG = {
 
  
 
-  SUPABASE_URL: "https://lcscwyqlihtpgnbjijrz.supabase.co",
+  SUPABASE_URL: "https://lcscwyqlihtpgnbijjrz.supabase.co",
 
 
  
